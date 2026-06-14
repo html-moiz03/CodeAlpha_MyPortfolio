@@ -1,6 +1,6 @@
-# 🌐 Malik Moiz — Frontend Developer Portfolio
+# 🌐 Malik AbdulMoiz — Frontend Developer Portfolio
 
-A personal portfolio website built with pure **HTML**, **CSS**, and **Vanilla JavaScript** — created as Task 3 of the **CodeAlpha Front-End Development Internship**.
+A personal portfolio website built with pure **HTML**, **CSS**, and **Vanilla JavaScript** — created as Task 4 of the **CodeAlpha Front-End Development Internship**.
 
 ---
 
